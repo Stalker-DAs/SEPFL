@@ -60,3 +60,16 @@ If you want to test the model, please set the config file to `cfg_test.py` in `m
 cd SEPFL
 python main.py
 ```
+
+## Cite
+If you find this work useful in your research, please consider citing:
+```
+@article{li2023structure,
+  title={Structure-enhanced pairwise feature learning for face clustering},
+  author={Li, Shaoying and Li, Jie and Wang, Bincheng and Yao, Wei and Liu, Bo},
+  journal={Complex \& Intelligent Systems},
+  pages={1--18},
+  year={2023},
+  publisher={Springer}
+}
+```
