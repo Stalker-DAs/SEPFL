@@ -61,7 +61,7 @@ cd SEPFL
 python main.py
 ```
 
-## Cite
+## Citation
 If you find this work useful in your research, please consider citing:
 ```
 @article{li2023structure,
